@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "edm0sNg9yLflG+bUJ7eZZCkIay9vexsMjSstfbjtj1ui348ICE08QPCMmGZ5WKLiO4ia7UAbHqLQ/v/ebyeqwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klapv\\Desktop\\Pract9BurKla\\Pract9BurKla\\Pract9BurKla.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klapv\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0\\microsoft.build.tasks.git.1.0.0.nupkg.sha512",
+    "C:\\Users\\klapv\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0\\microsoft.sourcelink.common.1.0.0.nupkg.sha512",
+    "C:\\Users\\klapv\\.nuget\\packages\\microsoft.sourcelink.github\\1.0.0\\microsoft.sourcelink.github.1.0.0.nupkg.sha512",
+    "C:\\Users\\klapv\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\klapv\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\klapv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\klapv\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
